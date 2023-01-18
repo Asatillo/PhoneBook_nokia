@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PhonebookTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-01-18T15:07:11" hostname="WIN-J8UBSPK04R5" time="0.059">
+  <properties/>
+  <testcase name="testAddDuplicateRecord()" classname="PhonebookTest" time="0.036"/>
+  <testcase name="testAddMalformedNumber()" classname="PhonebookTest" time="0.001"/>
+  <testcase name="testAddEmptyName()" classname="PhonebookTest" time="0.002"/>
+  <testcase name="testSearchBySubscriber()" classname="PhonebookTest" time="0.001"/>
+  <testcase name="testDeleteRecord()" classname="PhonebookTest" time="0.003"/>
+  <testcase name="testAddRecord()" classname="PhonebookTest" time="0.001"/>
+  <testcase name="testSearchByPhoneNumber()" classname="PhonebookTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
